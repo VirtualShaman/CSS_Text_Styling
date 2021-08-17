@@ -1,0 +1,24 @@
+* {
+    margin: 7px;
+}
+h1 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+}
+h1 span{
+    color: turquoise;
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background-color: rebeccapurple;
+}
+h3 {
+    text-align: right;
+    text-decoration: underline;
+    background-color: skyblue;
+}
